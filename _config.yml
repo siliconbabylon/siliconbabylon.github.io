@@ -7,5 +7,4 @@ url: "http://www.siliconbabylon.com"
 
 # Build settings
 markdown: kramdown
-  input: GFM
 permalink: pretty

@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is an outlet for so many thoughts on California, Tech, Bay Area, Politics, Science, Sustainability, Capitalism, Engineering, Sci-Fi among many others.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+###Authors
+
+#####Ben Miller
+
+Always a computer nerd, I found my programming legs late in the game at App Academy. Now I work at Oracle, but my history includes experiences in education, composting, neuroscience, communal living and Brazil.

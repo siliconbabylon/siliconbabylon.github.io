@@ -14,17 +14,17 @@ Two major themes regarding water waste are efficiency (low-flow showerheads, dua
 
 #### Toilets
 
-This is an affront to anyone who doesn't have access to clean water. Especially since the technology exists to take care of this. As a renter I somewhat bound to _yellow be mellow_, collecting unused shower water for flushing and displacing water in the toilet tank to reduce water consumed per flush. We also collect water we run while waiting for the shower to warm up and use that to flush when we can. Unfortunately, the solution to this cause of wasted water has the tallest social hurdle to overcome: Composting toilets. From the most basic system (5 gallon bucket and sawdust) to fancy residential systems (e.g. Biolet), most people rather not deal with more than a lever after dropping the kids off at the pool. 
+This is an affront to anyone who doesn't have access to clean water. Especially since the technology exists to take care of this. As a renter I somewhat bound to _yellow be mellow_, collecting unused shower water for flushing and displacing water in the toilet tank to reduce water consumed per flush. Unfortunately, the solution to this cause of wasted water has the tallest social hurdle to overcome: Composting toilets. From the most basic system (5 gallon bucket and sawdust) to fancy residential systems (e.g. Biolet), most people would rather not deal with more than a lever after dropping the kids off at the pool. 
 
 #### Shower
 
-Water waste consciousness in the shower is a bit more in vogue, with fancy times, lights and gadgets to measure your usage. Low flow showerheads exist to increase efficiency. To reduce the impact of showers further, simply using that resource less. I've found baking soda to be miraculous in odor control. Also, shower with a buddy.<sup>*</sup>
+Water waste consciousness in the shower is a bit more in vogue, with fancy times, lights and gadgets to measure your usage. Low-flow showerheads exist to increase efficiency. To reduce the impact of showers further, simply using that resource less. I've found baking soda to be miraculous in odor control. Also, shower with a buddy.<sup>*</sup>
 
 <sup>*</sup>Not scientifically proven. More data required.
 
 #### Laundry
 
-Washing machines have followed showers into the future with high-efficiency side-loading machines. I was hoping NASA would have made more progress with this issue but alas. Their options are [literally](http://www.nasa.gov/vision/space/livinginspace/Astronaut_Laundry.html) reuse, compost it or violent atmospheric re-entry. I'm hoping for silver nanoparticle reducing the frequency of washes. Another practice I've yet to try out is freezing clothes to kill bacteria. WAT. I'll try it with my gym clothes at work sometime. 
+Washing machines have followed showers into the future with high-efficiency side-loading machines. I was hoping NASA would have made more progress with this issue but alas. Astronauts currently have limited options for dirty laundry, which are [literally](http://www.nasa.gov/vision/space/livinginspace/Astronaut_Laundry.html) reuse, compost it or violent atmospheric re-entry. I'm hoping that silver nanoparticles, which have inhibitory effects on bacterial growth, could increase the period between washes for clothing items. Another practice I've yet to try out is freezing clothes to kill bacteria. WAT. I'll try it with my gym clothes at work sometime. 
 
 #### Landscape
 

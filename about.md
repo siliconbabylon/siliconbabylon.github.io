@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is an outlet for so many thoughts on California, Tech, Bay Area, Politics, Science, Sustainability, Capitalism, Engineering, Sci-Fi among many others.
+This is an outlet for so many thoughts on California, Tech, Bay Area, Politics, Science, Sustainability, Capitalism, Engineering, Sci-Fi among many others. We are hosted by [Github](http://github.com) and the source can be found [here](https://github.com/siliconbabylon/siliconbabylon.github.io).
 
 
 ###Authors

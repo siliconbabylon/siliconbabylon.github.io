@@ -6,5 +6,10 @@ baseurl: ""
 url: "http://www.siliconbabylon.com"
 
 # Build settings
-markdown: kramdown
 permalink: pretty
+
+markdown: redcarpet
+markdown_ext:  'markdown,mkdown,mkdn,mkd,md'
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "with_toc_data", "fenced_code_blocks"]
